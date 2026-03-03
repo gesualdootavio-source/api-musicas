@@ -1,7 +1,7 @@
 let musicas = [
-  { id: 1, autor: 'Yellowstone Theme',      link: 'https://youtu.be/9ECKaPrAGds' },
-    { id: 2, autor: 'The Cowboy In Me',       link: 'https://youtu.be/uJD-NK5MMDk?list=RDuJD-NK5MMDk' },
-    { id: 3, autor: 'Lady May',               link: 'https://youtu.be/tiwJadn-Nso?list=RDtiwJadn-Nso' },
+  { id: 5, nome: "Let Them Come", artista: "Brian Tyler" },
+  { id: 6, nome: "Valley of The Soul", artista: "Brian Tyler" },
+  { id: 7, nome: "Dawn", artista: "Brian Tyler" },
 ];
 
 
